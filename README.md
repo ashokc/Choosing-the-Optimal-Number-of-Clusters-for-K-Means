@@ -50,9 +50,12 @@ nClusters, Inertia, minClusterSeparation, Inertia/minClusterSeparation^2
 
 The metrics in **bold** indicate that the least value for 'Inertia/minClusterSeparation^2' is obtained for k=9
 
-The 'results' folder will contain the images for the obtained clusters. Here is one when K-means starts out with k as 9.
+The 'results' folder will contain the images for the obtained clusters. Here are a couple when K-means starts out with k as 9, or k as 23
 
+#### k = 9
 ![9 Square Clusters](./squares-9.png "When k=9 for K-means")
+#### k = 23
+![23 Square Clusters](./squares-23.png "When k=23 for K-means")
 
 ### Spiral clusters
 
@@ -83,8 +86,11 @@ nClusters, Inertia, minClusterSeparation, Inertia/minClusterSeparation^2
 
 The metrics in **bold** indicate that the least value for 'Inertia/minClusterSeparation^2' is obtained for k=9
 
-The 'results' folder will contain the images for the obtained clusters. Here is one when K-means starts out with k as 9.
+The 'results' folder will contain the images for the obtained clusters. Here are a couple when K-means starts out with k as 9, or k as 23
 
+#### k = 9
 ![9 Spiral Clusters](./spirals-9.png "When k=9 for K-means")
+#### k = 23
+![23 Spiral Clusters](./spirals-23.png "When k=23 for K-means")
 
 
