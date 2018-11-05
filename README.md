@@ -4,7 +4,7 @@ This is the source code to along with the series of blog articles
 
 * [Want Clusters? How Many Will You Have?](http://xplordat.com/2018/11/05/want-clusters-how-many-will-you-have/)
 
-* See the Pipfle for Python dependencies
+See the Pipfle for Python dependencies
 
 ## Usage
 
