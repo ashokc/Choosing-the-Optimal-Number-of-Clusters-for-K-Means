@@ -1,8 +1,8 @@
 # Choosing the Optimal Number of Clusters for K-Means
 
-This is the source code to along with the series of blog articles
+This is the source code to go along with the blog article  
 
-* [Want Clusters? How Many Will You Have?](http://xplordat.com/2018/11/05/want-clusters-how-many-will-you-have/)
+[Want Clusters? How Many Will You Have?](http://xplordat.com/2018/11/05/want-clusters-how-many-will-you-have/)
 
 See the Pipfle for Python dependencies
 
